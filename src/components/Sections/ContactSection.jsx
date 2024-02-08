@@ -20,10 +20,7 @@ const ContactSection = () => {
 					</h5>
 
 					<p className="text-[#ADB7BE] mb-4 max-w-md">
-						Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe
-						totam, itaque cum quibusdam molestias dolores atque, consequatur
-						repellendus quos reiciendis magnam id laboriosam ratione deserunt?
-						Aut voluptatum asperiores id sapiente?
+					{`Let's `}connect and collaborate on exciting projects! Whether you have questions, ideas, or opportunities, {`I'm`} here to listen and work together towards our goals. Reach out through the contact form below or connect with me on social media. Looking forward to hearing from you!
 					</p>
 					<div className="socials flex flex-row gap-2">
 						<Link href={"https://github.com/Avishake00"}>

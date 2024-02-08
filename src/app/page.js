@@ -15,10 +15,12 @@ const page = () => {
 				</div>
 
 				<div className="container mx-auto px-12 py-6">
+				<div className="mt-4 p-2" id="hero-section"></div>
 					<Herosection />
 					<hr className="lg:hidden md:hidden" />
 					<AboutSection />
 					<hr className="lg:hidden md:hidden" />
+					<div className="mt-4 p-2" id="projects-section"></div>
 					<ProjectSection/>
 					<hr className="lg:hidden md:hidden" />
 					<ContactSection/>

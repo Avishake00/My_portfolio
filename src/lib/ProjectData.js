@@ -16,7 +16,7 @@ export const projectData=[
         "image": {
             "url": `/project2.webp`
         },
-        "description":"A web application that allows users to create, share, and explore prompts. It provides a collaborative platform for creative expression and storytelling.",
+        "description":"A collaborative web app for creating, sharing, and exploring prompts, fostering creativity among users.",
         "link":{
             "url":"https://quiz-coder-42fov3a41-avishake00s-projects.vercel.app/"
         }

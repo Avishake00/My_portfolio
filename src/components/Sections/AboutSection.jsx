@@ -39,10 +39,7 @@ const AboutSection = () => {
 						About Me
 					</h2>
 					<p className="text-base md:text-lg">
-						Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis,
-						assumenda ex. Quidem, rerum velit ea asperiores delectus cupiditate
-						fuga reprehenderit accusantium ipsum hic. Hic architecto sint, rerum
-						laboriosam rem in.
+					As a BTech student specializing in the MERN stack and Next.js, I bring a robust foundation in modern web development technologies. With a passion for innovation and a drive to excel, {`I'm`} eager to leverage my technical expertise to contribute meaningfully to exciting projects. From crafting elegant code to solving complex problems, I am committed to delivering high-quality solutions that push boundaries and drive success.
 					</p>
 
 					<div className="flex flex-row items-center justify-center ml-2 mt-8 gap-3">
@@ -56,7 +53,7 @@ const AboutSection = () => {
 							</TabButton>
 						))}
 					</div>
-					<div className="mt-4">
+					<div className="mt-4 lg:ml-36">
 						{TabData.find((t) => t.id === tab).content}
 					</div>
 				</div>

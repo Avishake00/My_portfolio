@@ -4,7 +4,7 @@ import { projectData } from "@/lib/ProjectData";
 
 const ProjectSection = () => {
 	return (
-		<section className="text-white" id="projects-section">
+		<section className="text-white" >
 			<h1 className="flex text-center justify-center text-5xl font-bold font-sans mt-6">
 				My Projects
 			</h1>

@@ -44,13 +44,13 @@ export const TabData = [
 		content: (
 			<ul className="list-disc text-sm font-semibold font-sans">
 				<li className="mb-2">
-					<span className="flex justify-between">
+					<span className="flex flex-col justify-between">
 						Vellore Institute of Technology, Vellore
 						<p>2020-present</p>
 					</span>
 				</li>
 				<li className="mb-2">
-					<span className="flex justify-between">
+					<span className="flex flex-col justify-between">
 						Vidyasagar Vidyapith, Midnapore
 						<p>2018-2020</p>
 					</span>
