@@ -26,7 +26,7 @@ const RightAlignedDropdown = () => {
         <CiMenuBurger/>
       </button>
       {isOpen && (
-        <div className="flex flex-col absolute right-0 mt-2 bg-black text-slate-200 border border-solid border-gray-300 rounded-lg w-48 shadow-md shadow-purple-300">
+        <div className="flex flex-col absolute right-0 mt-2 bg-black text-slate-200 border border-solid border-gray-300 rounded-lg sm:w-36 w-28 shadow-md shadow-purple-300">
           <Link 
          activeClass="active"
          to="about-section"
@@ -34,21 +34,21 @@ const RightAlignedDropdown = () => {
          smooth={true}
          offset={-70}
          duration={500}
-        className="nav-link block px-4 py-2 cursor-pointer">About</Link>
+        className="nav-link block px-4 py-2 cursor-pointer text-center">About</Link>
         <hr />
         <Link  activeClass="active"
           to="projects-section"
           spy={true}
           smooth={true}
           offset={-70}
-          duration={500} className="nav-link block px-4 py-2 cursor-pointer">Projects</Link>
+          duration={500} className="nav-link block px-4 py-2 cursor-pointer text-center">Projects</Link>
           <hr />
         <Link  activeClass="active"
           to="contact-section"
           spy={true}
           smooth={true}
           offset={-70}
-          duration={500} className="nav-link block px-4 py-2 cursor-pointer">Contact</Link>
+          duration={500} className="nav-link block px-4 py-2 cursor-pointer text-center">Contact</Link>
         </div>
       )}
     </div>
