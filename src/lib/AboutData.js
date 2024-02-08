@@ -64,14 +64,14 @@ export const TabData = [
 		content: (
 			<ul className="list-disc">
 				<li>
-					<a href="#" className="flex items-center gap-1 hover:underline hover:text-blue-500">
+					<a href="https://drive.google.com/file/d/1rNkzr2fVyY8wYuko8m8CLLrpx32tvlfG/view?usp=sharing" className="flex items-center gap-1 hover:underline hover:text-blue-500">
 						Java and Data Structures
 					<RiLinksFill className="text-blue-500" />
 					</a>
 				</li>
 				<li >
 					<a
-						href="#"
+						href="https://drive.google.com/file/d/1kWz6HIGarlhfWoLupIn2-yLWAwuhCT_d/view?usp=sharing"
 						className="flex items-center gap-1 hover:underline hover:text-blue-500"
 					>
 						Microsoft SC-900
