@@ -16,7 +16,7 @@ const AboutSection = () => {
 	};
 
 	return (
-		<section className="text-white mt-4 mb-4 " id="about-section">
+		<section className="text-white mt-10 mb-4" id="about-section">
 			<div className="md:grid md:grid-cols-2 gap-12 px-4 xl:gap-16 sm:py-16 mt-4  ">
 				<div className="flex justify-center items-center w-[250px] h-[250px] lg:w-[500px] lg:h-[500px] mx-auto">
 					<motion.div
