@@ -35,11 +35,11 @@ const AboutSection = () => {
 				</div>
 
 				<div>
-					<h2 className="text-4xl text-center font-bold text-white mb-4 mt-6">
+					<h2 className="text-4xl text-center font-bold text-white mb-4 mt-10">
 						About Me
 					</h2>
-					<p className="text-base md:text-lg">
-					As a BTech student specializing in the MERN stack and Next.js, I bring a robust foundation in modern web development technologies. With a passion for innovation and a drive to excel, {`I'm`} eager to leverage my technical expertise to contribute meaningfully to exciting projects. From crafting elegant code to solving complex problems, I am committed to delivering high-quality solutions that push boundaries and drive success.
+					<p className="text-base md:text-lg text-[#ADB7BE]">
+					As a BTech student skilled in the MERN stack and Next.js, I'm passionate about innovative web development. Eager to contribute to forward-thinking projects, I bring a strong foundation in modern technologies and a commitment to crafting high-quality solutions that drive success and inspire progress.
 					</p>
 
 					<div className="flex flex-row items-center justify-center ml-2 mt-8 gap-3">
