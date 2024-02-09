@@ -39,7 +39,7 @@ const AboutSection = () => {
 						About Me
 					</h2>
 					<p className="text-base md:text-lg text-[#ADB7BE]">
-					As a BTech student skilled in the MERN stack and Next.js, I'm passionate about innovative web development. Eager to contribute to forward-thinking projects, I bring a strong foundation in modern technologies and a commitment to crafting high-quality solutions that drive success and inspire progress.
+					As a BTech student skilled in the MERN stack and Next.js, {`I'm`} passionate about innovative web development. Eager to contribute to forward-thinking projects, I bring a strong foundation in modern technologies and a commitment to crafting high-quality solutions that drive success and inspire progress.
 					</p>
 
 					<div className="flex flex-row items-center justify-center ml-2 mt-8 gap-3">

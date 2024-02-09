@@ -18,7 +18,7 @@ export const projectData=[
         },
         "description":"A collaborative web app for creating, sharing, and exploring prompts, fostering creativity among users.",
         "link":{
-            "url":"https://quiz-coder-42fov3a41-avishake00s-projects.vercel.app/"
+            "url":"https://prompt-karo-texb.vercel.app/"
         }
     },
 ]
